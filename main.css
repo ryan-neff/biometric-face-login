@@ -1,0 +1,18 @@
+body{
+	background-color: rgba(119,175,202,.26);
+}
+
+#sign_in_container {
+	width: 30%;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top: 15%
+}
+
+#face_button, #reg_link{
+	margin-top: 10%;
+	margin-left:25%;
+	margin-right:25%;
+}
+
+
